@@ -1,6 +1,6 @@
 # Secrets
 .env
 
-# Python build artifacts
+# Python build artifact
 __pycache__/
 *.pyc
